@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ImmortalLeader
+- 👀 I’m interested in making video games
+- 🌱 I’m currently learning how to code
